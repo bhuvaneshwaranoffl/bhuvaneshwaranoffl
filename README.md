@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhuvaneshwaranoffl
 - 👀 I’m interested in FRONTEND AND ANDROID DEVELOPMENT
-- 🌱 I’m currently learning FRONTEND 
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on REAL TIME PROJECT ON FUTURE
 - 📫 How to reach me instagram bhuvaneshwaranoffl
 
