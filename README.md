@@ -5,9 +5,12 @@
 🎓 Graduating in 2024, I've had hands-on experience in developing sleek and efficient Flutter applications, showcasing my commitment to delivering high-quality user experiences. My journey in app development has been marked by a strong curiosity and eagerness to learn new technologies.
 
 🚀 **Skills:**
+
 - Flutter App Development
+- Android development
 - UI/UX Design
 - Dart Programming Language
+- kotlin , java
 - canva & figma
 - nodejs mongoDB  
 
