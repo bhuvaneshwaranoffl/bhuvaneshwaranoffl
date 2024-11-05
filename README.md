@@ -19,10 +19,8 @@
 🚀 **Skills:**
 
 - Flutter App Development
-- Android development
 - UI/UX Design
 - Dart Programming Language
-- kotlin , java
 - canva & figma
 - nodejs mongoDB  
 
