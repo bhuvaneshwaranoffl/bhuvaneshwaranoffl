@@ -27,6 +27,8 @@
 🌟 **Key Achievements:**
 -developed an application and succesfully deployed it in playstore 
 
+- published journal paper about flutter - https://drive.google.com/file/d/1p7gDDDu1cxw-LxH3VDqNBZmaCTXeUlKq/view?ts=67ee20eb
+
 📚 **Always Learning:**
 I thrive on challenges and constantly seek opportunities to expand my knowledge. Currently, I'm exploring nodejs and mongo DB. My dedication to staying on the cutting edge ensures that I bring the latest and greatest to every project.
 
