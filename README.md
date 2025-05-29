@@ -1,72 +1,44 @@
-<h1 align="center">Hi 👋, I'm Bhuvaneshwaran</h1>
-<h3 align="center">💻 Self-taught Flutter Developer | 🚀 Building Scalable Mobile & Web Apps | ⚙️ Backend with Node.js & MongoDB</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Bhuvaneshwaran;Flutter+Developer+🚀;Node.js+Enthusiast+⚙️;MongoDB+Lover+💾" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhuvaneshwaranoffl&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwaranoffl" />
+  <img src="https://komarev.com/ghpvc/?username=bhuvaneshwaranoffl&label=Profile%20views&color=00f7ff&style=flat-square" alt="bhuvaneshwaranoffl" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎯 Passionate about creating **smooth and performant mobile & web experiences**
-- 🛠️ Specializing in **Flutter**, **Dart**, **Node.js**, and **MongoDB**
-- 🔁 I love clean architecture, scalable design, and efficient codebases
-- 🧠 Always learning and exploring new technologies
-- 📨 Reach me at: **bhuvaneshwaranoffl@gmail.com**
+## 🧠 About Me
 
----
+Self-taught Flutter developer pushing pixels and code in perfect harmony.
+Architecting full-stack applications that are lightweight, reactive, and future-proof.
+Always curious. Always building.
 
-### 🌐 Connect with me
-<p align="left">
-  <a href="mailto:bhuvaneshwaranoffl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/bhuvaneshwaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/bhuvaneshwaran_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+💬 Ask me about: Flutter, Dart, Node.js, MongoDB, Firebase
 
----
+📫 Reach me at: bhuvaneshwaranoffl@gmail.com
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+⚙️ Dev Stack: Flutter + Node.js + MongoDB + Firebase
 
----
+🔗 Connect With Me
+<p align="left"> <a href="mailto:bhuvaneshwaranoffl@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/bhuvanesh-waran-flutter/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwaranoffl&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+🛠️ Languages & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,mongodb,firebase,figma,python,github,git" /> </p>
+⚡ GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwaranoffl&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwaranoffl&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" height="180px"/> </div>
+🌐 GitHub Streaks
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwaranoffl&theme=neon-dark&hide_border=true&background=000000&ring=00F7FF&fire=FF00FF"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwaranoffl&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
 
----
+⚡ Built multi-page, componentized billing systems with real-time backend🧩 Fun Facts
+🔮 My IDE themes are darker than my soul
 
-### 🚀 Tech Highlights
-- 🔥 Built multiple full-stack applications using **Flutter + Node.js**
-- 🧾 Integrated **PDF generation**, **authentication**, and **real-time databases**
-- 🎮 Exploring **game dev with Flutter**, working on a project called `Chopper`
-- ⏱️ Implemented advanced **timers and usage tracking** in productivity apps
+💻 I believe UI is just as important as API
 
----
-<!--
-### 📂 Featured Projects
- Replace with your actual repositories 
-- 🔗 [Game Launcher UI in Flutter](https://github.com/bhuvaneshwaranoffl/game-launcher)
-- 🔗 [Billing System App (Flutter + Node.js)](https://github.com/bhuvaneshwaranoffl/billing-app)
-- 🔗 [CryptoX Admin Dashboard](https://github.com/bhuvaneshwaranoffl/cryptx_admin)
--->
----
+🤖 I love debugging — it's like being a code detective
 
-### 🧠 Let's Learn Together
-I love connecting with other devs, contributing to open-source, and improving my code every day. Feel free to reach out for collaboration or just to say hi!
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer"/> </p> ```
+🧾 Implemented advanced PDF generation, filtering, and usage analytics
 
----
 
