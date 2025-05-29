@@ -1,47 +1,22 @@
+<h1 align="center">Hi 👋, I'm bhuvaneshwaran</h1>
+<h3 align="center">I’m a self-taught Flutter developer passionate about building scalable, high-performance applications for mobile and web. I specialize in Flutter, Dart, and Node.js, crafting seamless user experiences with efficient backend solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwaranoffl&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwaranoffl" /> </p>
 
-👋 Hey there! I'm bhuvaneshwaran, a recent graduate from Anna university with a passion for creating innovative mobile applications. I specialize in Flutter app development and have honed my skills throughout my final year. 🚀
+- 💬 Ask me about **flutter,dart,nodejs , mongoDB**
 
-🎓 Graduating in 2024, I've had hands-on experience in developing sleek and efficient Flutter applications, showcasing my commitment to delivering high-quality user experiences. My journey in app development has been marked by a strong curiosity and eagerness to learn new technologies.
-# 💫 About Me:
-🔭 I’m currently working on T-NXT as a flutter developer <br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with learning <br>🌱 I’m currently learning Node js ans mongoDB<br>💬 Ask me about anything <br>
+- 📫 How to reach me **bhuvaneshwaranoffl@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhuvanesh waran&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh waran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh waran&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=Bhuvanesh waran&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🚀 **Skills:**
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bhuvaneshwaran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhuvaneshwaran" /></a></p><br><br>
 
-- Flutter App Development
-- UI/UX Design
-- Dart Programming Language
-- canva & figma
-- nodejs mongoDB  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvaneshwaranoffl&show_icons=true&locale=en&layout=compact" alt="bhuvaneshwaranoffl" /></p>
 
-🌟 **Key Achievements:**
--developed an application and succesfully deployed it in playstore 
-
-- published journal paper about flutter - https://drive.google.com/file/d/1p7gDDDu1cxw-LxH3VDqNBZmaCTXeUlKq/view?ts=67ee20eb
-
-📚 **Always Learning:**
-I thrive on challenges and constantly seek opportunities to expand my knowledge. Currently, I'm exploring nodejs and mongo DB. My dedication to staying on the cutting edge ensures that I bring the latest and greatest to every project.
-
-🤝 **Let's Connect:**
-I'm open to collaboration and always excited to connect with fellow developers. Feel free to reach out if you share similar interests, want to collaborate on a project, or just to geek out about the latest in tech!
-
-📱 **Check out My Work:**
-www.linkedin.com/in/bhuvanesh-waran-n-87045a215
-
-Thanks for visiting my GitHub repo! 🚀 Happy coding!
-
----
-<!---
-bhuvaneshwaranoffl/bhuvaneshwaranoffl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwaranoffl&" alt="bhuvaneshwaranoffl" /></p>
